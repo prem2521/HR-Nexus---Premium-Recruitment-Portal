@@ -1,0 +1,8 @@
+{
+  "name": "HR Nexus - Premium Recruitment Portal",
+  "description": "A high-end HR Recruitment Management System featuring glassmorphism design, real-time candidate tracking, and AI-powered interview invitation systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
